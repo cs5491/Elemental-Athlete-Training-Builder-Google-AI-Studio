@@ -1,0 +1,8 @@
+{
+  "name": "Elemental Athlete-Performance Builder and Tracker",
+  "description": "A comprehensive workout builder and tracking application for athletes, featuring AI-powered training splits, performance analytics, and session logging.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
